@@ -1,0 +1,58 @@
+package com.example.tax;
+
+public class PropertyTax implements Tax {
+	
+	/*
+    1. Create the following attributes.
+        a. taxableAmount (double)
+        b. taxAmount (double)
+        c. isTaxPayed (boolean)
+    2. Make this class an implementation of Tax interface and override the interface methods.
+    3. Using constructor initialize the isTaxPayed boolean false.
+     */
+	
+	private double taxableAmount;
+	private double taxAmount;
+	private boolean isTaxpayed;
+	
+	public PropertyTax(boolean isTaxpayed) {
+		this.isTaxpayed = false;
+	}
+
+	@Override
+	public void setTaxableAmount(int amount) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void calculateTaxAmount() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public double getTaxAmount() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public String getTaxType() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public boolean isTaxPayed() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public void payTax() {
+		// TODO Auto-generated method stub
+		
+	}
+    
+}

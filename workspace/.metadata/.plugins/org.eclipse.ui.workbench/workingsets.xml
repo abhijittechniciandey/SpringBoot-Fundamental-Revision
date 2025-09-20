@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1746547511430_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1746547511511_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1753014363985_4" label="testingSpringDemo" name="testingSpringDemo">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/IOC" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/IOC2" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/IOC 3" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1753121393119_6" label="tax" name="tax">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/tax" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1753283808546_8" label="SocialMedia" name="SocialMedia">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SocialMedia" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1753286495632_9" label="SocialMedia2" name="SocialMedia2">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SocialMedia2" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1746547514338_2" label="Window Working Set" name="Aggregate for window 1746547514337"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1752951172922_3" label="Window Working Set" name="Aggregate for window 1752951172922"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1753120744634_5" label="Window Working Set" name="Aggregate for window 1753120744634"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1753123586182_7" label="Window Working Set" name="Aggregate for window 1753123586182"/>
+</workingSetManager>
