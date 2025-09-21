@@ -2264,3 +2264,96 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.to
 2025-09-21 17:47:08,977 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2025-09-21 17:47:08,979 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2025-09-21 17:47:08,987 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Tax III\src\test\resources
+2025-09-21 17:52:11,016 [Worker-50: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:CustomerServicedemo:0.0.1-SNAPSHOT @ C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Template_CustomerServiceProject\pom.xml.
+2025-09-21 17:52:12,308 [Worker-50: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.pom
+2025-09-21 17:52:12,447 [Worker-50: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.pom
+2025-09-21 17:52:12,518 [Worker-50: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar
+2025-09-21 17:52:12,713 [Worker-50: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar
+2025-09-21 17:52:13,083 [Worker-50: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CustomerServiceProject/src/main/java
+2025-09-21 17:52:13,084 [Worker-50: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CustomerServiceProject/src/main/resources
+2025-09-21 17:52:13,088 [Worker-50: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CustomerServiceProject/src/main/resources
+2025-09-21 17:52:13,092 [Worker-50: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CustomerServiceProject/src/test/java
+2025-09-21 17:52:13,462 [Worker-50: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2025-09-21 17:52:14,235 [Worker-50: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2-sources.jar
+2025-09-21 17:52:14,284 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 17:52:14,287 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 17:52:14,299 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Template_CustomerServiceProject\src\test\resources
+2025-09-21 17:52:14,419 [Worker-50: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2-sources.jar
+2025-09-21 17:52:14,429 [Worker-50: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter-engine:5.8.2
+2025-09-21 17:52:15,413 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-09-21 17:52:15,414 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-09-21 17:52:15,425 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Template_CustomerServiceProject\src\test\resources
+2025-09-21 17:59:17,025 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 17:59:17,035 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 17:59:17,045 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Template_CustomerServiceProject\src\test\resources
+2025-09-21 17:59:51,084 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 17:59:51,092 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 17:59:51,102 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Template_CustomerServiceProject\src\test\resources
+2025-09-21 18:02:25,584 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:02:25,590 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:02:25,598 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Template_CustomerServiceProject\src\test\resources
+2025-09-21 18:06:02,105 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:06:02,111 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:06:02,123 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Template_CustomerServiceProject\src\test\resources
+2025-09-21 18:06:27,469 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:06:27,474 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:06:27,481 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Template_CustomerServiceProject\src\test\resources
+2025-09-21 18:07:39,641 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:07:39,646 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:07:39,655 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Template_CustomerServiceProject\src\test\resources
+2025-09-21 18:09:53,335 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:09:53,342 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:09:53,352 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Template_CustomerServiceProject\src\test\resources
+2025-09-21 18:15:33,360 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:15:33,366 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:15:33,376 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Template_CustomerServiceProject\src\test\resources
+2025-09-21 18:19:34,710 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:19:34,715 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:19:34,723 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Template_CustomerServiceProject\src\test\resources
+2025-09-21 18:19:57,357 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:19:57,362 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:19:57,368 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Template_CustomerServiceProject\src\test\resources
+2025-09-21 18:20:11,718 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:20:11,723 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:20:11,732 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Template_CustomerServiceProject\src\test\resources
+2025-09-21 18:22:07,677 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:22:07,682 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:22:07,716 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Template_CustomerServiceProject\src\test\resources
+2025-09-21 18:24:53,824 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-09-21 18:24:53,825 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:24:53,832 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Template_CustomerServiceProject\src\test\resources
+2025-09-21 18:27:45,953 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:27:45,960 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:27:45,969 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Template_CustomerServiceProject\src\test\resources
+2025-09-21 18:29:10,280 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:29:10,287 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:29:10,339 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Template_CustomerServiceProject\src\test\resources
+2025-09-21 18:29:49,187 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:29:49,192 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:29:49,201 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Template_CustomerServiceProject\src\test\resources
+2025-09-21 18:32:20,292 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:32:20,304 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:32:20,312 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Template_CustomerServiceProject\src\test\resources
+2025-09-21 18:34:19,023 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:34:19,039 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:34:19,044 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Template_CustomerServiceProject\src\test\resources
+2025-09-21 18:34:28,135 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:34:28,143 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:34:28,151 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Template_CustomerServiceProject\src\test\resources
+2025-09-21 18:38:36,018 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:38:36,038 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:38:36,046 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Template_CustomerServiceProject\src\test\resources
+2025-09-21 18:39:06,626 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:39:06,662 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:39:06,671 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Template_CustomerServiceProject\src\test\resources
+2025-09-21 18:42:31,974 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:42:31,980 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:42:31,987 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Template_CustomerServiceProject\src\test\resources
+2025-09-21 18:44:43,417 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:44:43,426 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:44:43,434 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Template_CustomerServiceProject\src\test\resources
+2025-09-21 18:48:39,574 [Worker-65: Launching CustomerServicedemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:48:39,579 [Worker-65: Launching CustomerServicedemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:48:39,608 [Worker-65: Launching CustomerServicedemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Template_CustomerServiceProject\src\test\resources
+2025-09-21 18:49:46,010 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-21 18:49:46,015 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
