@@ -3412,3 +3412,69 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.to
 2025-09-22 07:47:39,918 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-test:6.0.6
 2025-09-22 07:47:40,822 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2025-09-22 07:47:40,824 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-09-22 07:47:40,842 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\InsuranceProject\src\test\resources
+2025-09-22 08:20:01,249 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-09-22 08:24:49,127 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.codingNinjas:SocialMedia:0.0.1-SNAPSHOT @ C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Bean Scope I\pom.xml.
+2025-09-22 08:24:56,324 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-22 08:24:56,357 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-09-22 08:24:56,364 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Bean Scope I\src\test\resources
+2025-09-22 08:25:01,182 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-09-22 08:25:01,183 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-22 08:25:01,200 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Cinemaxify I\src\test\resources
+2025-09-22 08:25:02,866 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-09-22 08:25:02,866 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-22 08:25:02,897 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Cinemaxify II\src\test\resources
+2025-09-22 08:25:04,271 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-09-22 08:25:04,272 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-22 08:25:04,398 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Cinemaxify III\src\test\resources
+2025-09-22 08:25:05,807 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-09-22 08:25:05,808 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-09-22 08:25:05,816 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Constructor Injection II\src\test\resources
+2025-09-22 08:25:07,432 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-09-22 08:25:07,432 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-09-22 08:25:07,441 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Constructor Injection III\src\test\resources
+2025-09-22 08:25:08,649 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-09-22 08:25:08,649 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-09-22 08:25:08,685 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Constructor Injection I\src\test\resources
+2025-09-22 08:25:10,123 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-22 08:25:10,126 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-22 08:25:10,147 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Template_CustomerServiceProject\src\test\resources
+2025-09-22 08:25:22,408 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-22 08:25:22,437 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-22 08:25:22,449 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Inversion of Control I\src\test\resources
+2025-09-22 08:25:24,046 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-22 08:25:24,051 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-22 08:25:24,060 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Inversion of Control III\src\test\resources
+2025-09-22 08:25:25,002 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-22 08:25:25,005 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-22 08:25:25,014 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Inversion  of Control II\src\test\resources
+2025-09-22 08:25:28,368 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-22 08:25:28,371 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-09-22 08:25:28,381 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\InsuranceProject\src\test\resources
+2025-09-22 08:25:35,146 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-22 08:25:35,150 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-09-22 08:25:35,160 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Bean Scope I\src\test\resources
+2025-09-22 08:25:43,182 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-22 08:25:43,215 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-22 08:25:43,257 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\PaymeNow\src\test\resources
+2025-09-22 08:25:47,869 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-09-22 08:25:47,871 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-09-22 08:25:47,889 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Setter Injection\src\test\resources
+2025-09-22 08:25:49,517 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-22 08:25:49,521 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-09-22 08:25:49,534 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Bean Scope II\src\test\resources
+2025-09-22 08:25:51,162 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-09-22 08:25:51,163 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-22 08:25:51,181 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Tax III\src\test\resources
+2025-09-22 08:25:52,850 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-09-22 08:25:52,851 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-22 08:25:52,886 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Revision\TemplateTaxI\src\test\resources
+2025-09-22 08:25:54,483 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-09-22 08:25:54,492 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-22 08:25:54,514 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Vaccination2\src\test\resources
+2025-09-22 08:25:56,127 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-09-22 08:25:56,135 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-09-22 08:25:56,174 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\Vaccine Flow\Vaccination\src\test\resources
+2025-09-22 08:25:58,637 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-09-22 08:25:58,637 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-09-22 08:25:58,657 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Desktop\GFG_Trainning\Coding Ninjas\Spring Boot Fundamental\TemplateTaxI\src\test\resources

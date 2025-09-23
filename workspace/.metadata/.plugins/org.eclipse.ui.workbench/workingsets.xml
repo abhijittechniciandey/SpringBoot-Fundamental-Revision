@@ -12,7 +12,7 @@
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TemplateTax1" type="4"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1753283808546_8" label="SocialMedia" name="SocialMedia">
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SocialMedia" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Bean Scope I" type="4"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1753286495632_9" label="SocialMedia2" name="SocialMedia2">
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SocialMedia2" type="4"/>
